@@ -1,4 +1,4 @@
-# Investigation with Splunk
+# Investigating with Splunk
 
 ## Introduction
 
